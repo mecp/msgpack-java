@@ -1,0 +1,7 @@
+name: mecp/msgpack-java
+author:
+  name: Chandraprakash Sharma
+  email: envy.cp@gmail.com
+  url: www.chandraprakash.in
+copyright: 2015 Chandraprakash Sharma
+description: 'MessagePack serializer implementation for Java / msgpack.org[Java]'
